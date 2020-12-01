@@ -19,3 +19,7 @@ When you will download the file, you will get a message "Blocked because could h
 # Microsoft Smart Defender (Run Anyway)
 
 After your file is downloaded, click on "Agam's Calculator Setup.exe" file. You will get a Microsoft Smart Defender screen. Click 'More Information' and then 'Run Anyway'. (I am reminding you again that this is not a virus.)
+
+# Setup
+
+Just click Yes in UAC Prompt. Do the setup with your choice and when it's done, You'll will see that the program will appear in Start menu. 
