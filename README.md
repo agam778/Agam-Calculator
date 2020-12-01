@@ -16,5 +16,6 @@ When you will download the file, you will get a message "Blocked because could h
 
 ![Keep Anyway](https://github.com/agam778/Agam-Calculator/blob/main/Keep%20Anyway%20(ms-edge).gif?raw=true)
 
-After your file is downloaded, click on "Agam's Calculator Setup.exe" file. You will get a Microsoft Smart Defender screen. Click 'More Information' and then 'Run Anyway'. (I am reminding you again that this is not a virus.)
+# Microsoft Smart Defender (Run Anyway)
 
+After your file is downloaded, click on "Agam's Calculator Setup.exe" file. You will get a Microsoft Smart Defender screen. Click 'More Information' and then 'Run Anyway'. (I am reminding you again that this is not a virus.)
