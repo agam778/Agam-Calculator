@@ -6,4 +6,4 @@ It is a basic and lightweight calculator application which can be used in Window
 
 # How to install
 
-First download 
+To download, Click https://github.com/agam778/Agam-Calculator/blob/main/Agam's%20Calculator%20Setup.exe 
