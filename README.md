@@ -2,7 +2,7 @@
 
 (Note : This app is made using Python)
 
-It is a basic and lightweight calculator application which can be used in Windows 7 and Above.
+It is a basic and lightweight calculator application which can be used in Windows XPand Above.
 
 (Note: Works good in Maximized mode.)
 
